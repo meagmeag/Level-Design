@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: floor_wood_2
+  m_Name: floor_wood_2A
   m_Shader: {fileID: 4, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -22,11 +22,11 @@ Material:
     - _BumpMap:
         m_Texture: {fileID: 2800000, guid: f0744e734b9c15647a9a30d8d1b87e93, type: 3}
         m_Scale: {x: 1, y: 1.5}
-        m_Offset: {x: 0, y: 0}
+        m_Offset: {x: 0, y: 0.5}
     - _MainTex:
         m_Texture: {fileID: 2800000, guid: 209c7e118bcec3340a30c4ae14da6efa, type: 3}
         m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
+        m_Offset: {x: 0, y: 0.5}
     m_Floats:
     - _Shininess: 0.101
     m_Colors:
