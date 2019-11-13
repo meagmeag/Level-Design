@@ -6,7 +6,7 @@ public class ThunderClap : MonoBehaviour
 {
     new Light light;
     new public AudioClip audioClip;
-     AudioSource source;
+    AudioSource source;
     bool canFlicker = true;
 
     // Start is called before the first frame update
